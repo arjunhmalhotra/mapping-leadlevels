@@ -1,0 +1,2 @@
+# mapping-leadlevels
+This program reads a text list of lead levels in the soil of Newark, Ohio, then graphs the lead values by longitude and latitude as a scatter plot over a baseman of the region. For reference, blue dots are lead levels less than 400 ppm, yellow dots are lead levels less than 1000 ppm, orange dots are lead levels less than 2000, and red dots are lead levels of anything greater than 2000 ppm.
